@@ -1,0 +1,20 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Debug" />
+  <action id="EditorSelectWord" />
+  <action id="Resume" />
+  <action id="Run" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
+</keymap>
